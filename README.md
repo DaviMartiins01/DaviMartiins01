@@ -4,7 +4,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DaviMartiins01&theme=transparent&utcOffset=8.00" alt="Davi Martins github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviMartiins01&layout=compact&hide_border=true&title_color=016AFF&text_color=016AFF&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviMartiins01&layout=compact&hide_border=true&title_color=016AFF&text_color=009AFF&bg_color=0d1117" />
 </div>
 
 
